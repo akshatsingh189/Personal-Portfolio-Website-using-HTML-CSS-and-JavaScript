@@ -35,11 +35,10 @@ A fully responsive personal portfolio website built using **HTML**, **CSS**, and
 ---
 
 ## 📸 Screenshots
-*(Add 2–3 images of your website here)*
-![ Screenshot](assets/screenshot1.png) 
-![ Screenshot](assets/screenshot1.png) 
-![ Screenshot](assets/screenshot1.png) 
-![ Screenshot](assets/screenshot1.png) 
+![ Screenshot](screenshot1.png) 
+![ Screenshot](screenshot2.png) 
+![ Screenshot](screenshot3.png) 
+![ Screenshot](screenshot4.png) 
 
 ---
 
